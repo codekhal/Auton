@@ -3,9 +3,9 @@ I created this project with [Create React App](https://github.com/facebook/creat
 ## To run on your local machine
 
 Step 1: ` git clone https://github.com/codekhal/Auton.git`
-<br>
+<br> <br>
 Step 2: ` cd Auton` 
-<br>
+<br> <br>
 Step 3: `npm start`
 
 Run the app in the development mode.
