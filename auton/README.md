@@ -4,9 +4,9 @@ I created this project with [Create React App](https://github.com/facebook/creat
 
 Step 1: ` git clone https://github.com/codekhal/Auton.git`
 <br>
-Step 2: ` cd Auton`
-
-Step 3: #### `npm start`
+Step 2: ` cd Auton` 
+<br>
+Step 3: `npm start`
 
 Run the app in the development mode.
 <br> 
