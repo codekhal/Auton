@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Card = (props) =>
+const Card = ({name, email, id}) =>
 {
-    const {name, email, id} = props; //destructuring props, ES6
+    // const   {} = props; //destructuring props, ES6
     return (
         <div className= 'tc bg-green dib br3 pd3 ma2 grow bw2 shadow-5'>
             <img alt = 'Robo' src = {`https://robohash.org/${id}?200x200`} />
